@@ -41,5 +41,3 @@ visit : https://www.learntermux.tech/2020/02/Termux-Games-Script.html
 ```bash games.sh```
 
 <br>
-
-💀<h3>Don't copy this code without give me the credits, nerd!</h3> <br>
